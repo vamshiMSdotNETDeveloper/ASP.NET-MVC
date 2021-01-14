@@ -1,0 +1,11 @@
+Git Commands
+
+git init
+git pull origin branchname
+git add filename -m message
+git add -A -m message
+git commit filename
+git commit -a
+git branch creatingbranchname
+git checkout createdbranchname
+git merge createdbranchname
